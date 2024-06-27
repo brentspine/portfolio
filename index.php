@@ -47,7 +47,7 @@
                         <span>Scroll please :)</span>
                     </div>
                     <div class="scroll-notice-arrow">
-                        <img src="/images/arrow-down-secondary-color.svg">
+                        <img src="./images/arrow-down-secondary-color.svg">
                     </div>
                 </div>
             </div>

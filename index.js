@@ -45,7 +45,7 @@ function skill_section_notification_set() {
 
     // Add SVG Arrow and Text
     notification.innerHTML = `
-        <div class="image-wrapper-contain"><img src="/images/arrow_notice_skills.svg" ></div>
+        <div class="image-wrapper-contain"><img src="./images/arrow_notice_skills.svg" ></div>
         <span class="all">Klicke für mehr Informationen!</span>
         <span class="phone">Klicke mich!</span>
     `;
