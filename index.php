@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brentspine.de</title>
-    <link rel="stylesheet" href="/styles/main.css">
-    <link rel="stylesheet" href="/styles/dark.css">
+    <link rel="stylesheet" href="./styles/main.css">
+    <link rel="stylesheet" href="./styles/dark.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
@@ -92,17 +92,17 @@
                 <div class="links">
                     <a href="https://brentspine.de/r/github" target="_blank">
                         <div class="image-wrapper-contain">
-                            <img src="/images/github_white_256_256.png">
+                            <img src="./images/github_white_256_256.png">
                         </div>
                     </a>
                     <a href="https://brentspine.de/r/instagram" target="_blank">
                         <div class="image-wrapper-contain">
-                            <img src="/images/instagram_white_300_300.svg">
+                            <img src="./images/instagram_white_300_300.svg">
                         </div>
                     </a>
                     <a href="https://brentspine.de/r/twitter" target="_blank">
                         <div class="image-wrapper-contain">
-                            <img src="/images/twitter_white_32_32.svg">
+                            <img src="./images/twitter_white_32_32.svg">
                         </div>
                     </a>
                 </div>
@@ -119,10 +119,10 @@
                     <span>Made with <span class="heart">❤</span> by Brentspine (&copy; 2024)</span>
                 </div>
                 <div>
-                    <span><a href="/impressum" class="nolink">Impressum</a></span>
+                    <span><a href="./impressum" class="nolink">Impressum</a></span>
                 </div>
                 <div>
-                    <span><a href="/inspirationen" class="nolink">Inspirationen</a></span>
+                    <span><a href="./inspirationen" class="nolink">Inspirationen</a></span>
                 </div>
             </div>
         </div>
