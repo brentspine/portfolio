@@ -112,7 +112,7 @@
         <div id="section-footer">
             <div></div>
             <div class="thanks">
-                <span>>> Vielen Dank für deinen Besuch!!! <<</span>
+                <span>>> Vielen Dank für deinen Besuch! <<</span>
             </div>
             <div class="bottom">
                 <div>
